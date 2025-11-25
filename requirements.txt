@@ -1,0 +1,11 @@
+openai
+python-dotenv
+feedparser
+requests
+tweepy
+gradio
+pydantic
+rich
+beautifulsoup4
+requests
+feedparser
