@@ -12,6 +12,31 @@
 - Saves each daily brief locally (and optionally to GitHub)
 - Runs fully locally with a clean UI
 
+
+## **Why I Created BRIEF**
+Modern information streams are overwhelming. AI news moves too fast, newsletters are too broad, RSS feeds are too fragmented, and social media is too noisy. Most people don't have the time or cognitive bandwidth to sift through dozens of sources every day — and even when they do, the information they find rarely matches their personal needs.
+
+Existing solutions fall short:
+
+- News aggregators are generic  
+- LLM summarizers produce uniform, non-personalized outputs  
+- Bookmarking tools don’t solve the relevance problem  
+- AI copilots lack memory and don’t adapt over time  
+- Research workflows are manual, repetitive, and time-intensive  
+
+I created **BRIEF** to fix this.
+
+BRIEF transforms scattered information into a **daily personalized research brief** that understands:
+
+- who the user is  
+- how they think  
+- what they care about  
+- what level of depth they prefer  
+- which topics matter to their role or context  
+
+At its core, BRIEF is a **behavior-driven intelligence pipeline**.  
+The system observes user patterns through a MemoryAgent, learns continuously, and then shapes the flow of information through a suite of specialized agents — ensuring that every summary becomes more relevant with each run.
+
 ---
 
 ## 🚀 **Run with One Command**
